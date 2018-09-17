@@ -5,4 +5,7 @@
 
 var stringifyJSON = function(obj) {
   // your code goes here
+  // Number, String, Boolean, Array, 
+  // Objects, null, NaN, undefined, Date, Function
+  
 };
